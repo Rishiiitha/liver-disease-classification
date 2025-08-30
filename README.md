@@ -56,4 +56,4 @@ Best model selected: ( XGBoost)
 ## 🌐 Deployment
 The app is deployed on **Streamlit Cloud**.  
 
-👉 [Click here to use the Liver Disease Classification App]([https://your-streamlit-link.streamlit.app](https://liver-disease-classification-hbk5r7cxhzchcphqx4xvmp.streamlit.app/))
+👉 [Click here to use the Liver Disease Classification App](https://liver-disease-classification-hbk5r7cxhzchcphqx4xvmp.streamlit.app)
