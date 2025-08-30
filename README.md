@@ -57,3 +57,5 @@ Best model selected: Gaussian NB
 The app is deployed on **Streamlit Cloud**.  
 
 👉 [Click here to use the Liver Disease Classification App](https://liver-disease-classification-hbk5r7cxhzchcphqx4xvmp.streamlit.app)
+<img width="1910" height="935" alt="image" src="https://github.com/user-attachments/assets/c4ed5309-2fda-4df1-b417-c41c10f70e7e" />
+
