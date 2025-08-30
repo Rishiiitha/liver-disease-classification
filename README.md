@@ -11,7 +11,7 @@ A **Streamlit web app** that predicts whether a person is at **risk of liver dis
 - Model selection based on **Recall Score** (prioritizing detection of diseased cases).  
 - Final trained model + scaler saved in `.pkl` file.  
 - **Streamlit frontend** for user-friendly predictions.  
-- Risk levels: **Low / Borderline / High**.  
+- Risk levels: **Low /High**.  
 
 ---
 
@@ -51,7 +51,7 @@ A **Streamlit web app** that predicts whether a person is at **risk of liver dis
 
 ## Evaluation metric: Recall (to minimize false negatives).
 
-Best model selected: ( XGBoost)
+Best model selected: Gaussian NB
 
 ## 🌐 Deployment
 The app is deployed on **Streamlit Cloud**.  
