@@ -43,9 +43,9 @@ A **Streamlit web app** that predicts whether a person is at **risk of liver dis
    cd liver-disease-classification
 
 2.Create virtual environment & install dependencies:
-  ```pip install -r requirements.txt
+  ```pip install -r requirements.txt```
 3. Run the app:
-  ```streamlit run app.py
+  ```streamlit run app.py```
 
 📊 Model Performance
 
